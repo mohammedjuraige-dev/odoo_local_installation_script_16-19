@@ -72,7 +72,7 @@ db_port = 5432
 db_user = $DB_USER
 db_password = $DB_PASSWORD
 logfile = $LOGFILE
-xmlrpc_port = $PORT
+http_port = $PORT
 EOF
 
 # STEP 8: Done
